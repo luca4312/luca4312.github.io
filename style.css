@@ -1,3 +1,12 @@
+body{
+    background-color: #484848;
+}
 .header{
-    top 8%;
+    position: absolute;
+    top: 8%;
+}
+.header a{
+    position: center;
+    background-color: lightgray;
+    color: white;
 }
